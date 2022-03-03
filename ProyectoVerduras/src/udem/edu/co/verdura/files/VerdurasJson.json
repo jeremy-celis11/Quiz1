@@ -1,0 +1,22 @@
+{
+  "Verdura": {
+    "Rabano": {
+      "color": "\"Rojo y verde\"",
+      "precio": 2.3,
+      "duracion": "\"3 semanas\"",
+      "carateristica": "\"Bajo tierra\""
+    },
+    "Apio": {
+      "color": "\"Verde y Blanco\"",
+      "precio": 3.5,
+      "duracion": "\"2 semanas\"",
+      "carateristica": "\"Comer y utilizar tallo\""
+    },
+    "Cebolla": {
+      "color": "\"Blanca o Roja\"",
+      "precio": 5.3,
+      "duracion": "\"1 mes\"",
+      "carateristica": "\"Forma ovalada o esférica\""
+    }
+  }
+}

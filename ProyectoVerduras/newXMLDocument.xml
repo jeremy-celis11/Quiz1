@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Verdura>
+    <Rabano>
+        <color>"Rojo y verde"</color>
+        <precio>2.3</precio>
+        <duracion>"3 semanas"</duracion>
+        <carateristica>"Bajo tierra"</carateristica>
+    </Apio>
+    
+    <Apio>
+        <color>"Verde y Blanco"</color>
+        <precio>3.5</precio>
+        <duracion>"2 semanas"</duracion>
+        <carateristica>"Comer y utilizar tallo"</carateristica>
+    </Apio>
+    
+    <Cebolla>
+        <color>"Blanca o Roja"</color>
+        <precio>5.3</precio>
+        <duracion>"1 mes"</duracion>
+        <carateristica>"Forma ovalada o esférica"</carateristica>
+    </Cebolla>
+    
+</Verdura>
